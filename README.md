@@ -6,9 +6,11 @@ In the realm of artificial intelligence, Distillery emerges as a captivating too
 
 Distillery is capable of generating remarkably realistic pictures. The AI algorithm listens to our intentions and serves us with four amazing images based on the provided prompt.
 
-## 2. How I use it
+## 2. How I use it?
 
-My primary use for this tool is in creating prints on clothing. Images can be effortlessly printed on clothing through the Amazon Merch on Demand service, enabling the creation of customized merchandise that can be offered for sale on the Amazon platform.
+My idea of using this tool is to create prints on clothing, leveraging the convenience and efficiency of the Amazon Merch on Demand service. With this platform, I can effortlessly translate my creative visions into reality by printing images on various clothing items. This not only allows me to explore my artistic expressions but also empowers me to craft personalized and unique merchandise.
+
+In addition, I would like to mention that all the pictures showcase Maine Coon cats because these cats serve as my inspiration in the context of tourism (they love to travel), and I personally adore this breed. My envisioned "clothing brand" would be named MaineCool.
 
 ## 3. Presentation of the use
 
